@@ -39,11 +39,11 @@ Place the file named *budget_tracker.py* inside a folder of your choice.
 Navigate to the folder where the file is stored.
 ### Step 4: Run the project using:### Step 5: Follow the menu displayed on the screen  
 Example:
-- Press *1* → Set Budget  
-- Press *2* → Add Expense  
-- Press *3* → View Expenses  
-- Press *4* → Remaining Budget  
-- Press *5* → Exit  
+- Press 1 → Set Budget  
+- Press 2 → Add Expense  
+- Press 3 → View Expenses  
+- Press 4 → Remaining Budget  
+- Press 5 → Exit  
 ## 6. How the Program Works (Simple Explanation)
 The project uses two main variables:
 1. budget – stores the monthly budget entered by the user.  
