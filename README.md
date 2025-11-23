@@ -61,8 +61,8 @@ The project uses two main variables:
    - Remaining amount is correct
 5. Exit the program
 ## 8.Screenshots
-<img width="314" height="423" alt="Screenshot 2025-11-23 182006" src="https://github.com/user-attachments/assets/51be53a7-21b8-4760-91df-cbc6540ff4dc" />
-<img width="390" height="886" alt="Screenshot 2025-11-23 181951" src="https://github.com/user-attachments/assets/9782ab49-14e6-48d2-8510-caa56397b478" />
 <img width="610" height="678" alt="Screenshot 2025-11-23 181629" src="https://github.com/user-attachments/assets/bef6beb3-4f2b-419c-a188-53ba3a66102a" />
 <img width="818" height="901" alt="Screenshot 2025-11-23 181612" src="https://github.com/user-attachments/assets/6a04125c-2897-4ad6-bfc4-240976eb1574" />
+<img width="314" height="423" alt="Screenshot 2025-11-23 182006" src="https://github.com/user-attachments/assets/51be53a7-21b8-4760-91df-cbc6540ff4dc" />
+<img width="390" height="886" alt="Screenshot 2025-11-23 181951" src="https://github.com/user-attachments/assets/9782ab49-14e6-48d2-8510-caa56397b478" />
 
