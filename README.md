@@ -53,8 +53,8 @@ The project uses two main variables:
 ## 7.To properly test the program:
 1. Run the program and *set a budget* (example: 5000).
 2. Add a few expenses like:
-   - Vegetable–₹240
-   - Travel–₹200
+   - vegetable–₹240
+   - stationary–₹200
 3. Use *View Expenses* to confirm that entries are stored correctly.
 4. Use *Remaining Budget* and check:
    - Total spent is correct
